@@ -1,1 +1,1 @@
- script that prints the absolute path name of the current working directory
+this is the README for this project, shell permissions
